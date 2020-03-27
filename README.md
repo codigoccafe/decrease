@@ -21,7 +21,7 @@ Você tem que usar aquele script de acompanhamento fornecido pelo Analytics para
 
 Você deve integrar o arquivo decrease.min.js antes da tag </body>.
 ```
-<script src="decrease.min.js"></script>
+<script src="decrease.js"></script>
 ```
 ## Uso
 
