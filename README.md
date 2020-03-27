@@ -7,13 +7,13 @@ Você tem que usar aquele script de acompanhamento fornecido pelo Analytics para
 
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149347508-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-DE-SEU-SITE"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-149347508-1');
+  gtag('config', 'UA-DE-SEU-SITE');
 </script>
 ```
 
